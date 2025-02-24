@@ -3,17 +3,17 @@ type: ProjectLayout
 title: 3v3 Robot Soccer
 colors: colors-a
 date: '2024-10-15'
-client: UTM Robotixs
+client: UTM Robotics
 description: >-
-  Collaborated with UTM Robotics team to develop and optimize control algorithms for Kobuki robots using Raspberry Pis and socket-based communication, enhancing gameplay performance for 3v3 soccer matches.
+  I collaborated with UTM Robotics executives to develop and optimize control algorithms for Kobuki robots using Raspberry Pis and socket-based communication, enhancing gameplay performance for 3v3 soccer matches.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
-  altText: Project thumbnail image
+  url: /images/robotsoccer1.png
+  altText: Robot soccer in action!
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
-  altText: Project image
+  url: /images/robotsoccer.png
+  altText: Robot soccer in action!
 ---
 
 ### Project Overview

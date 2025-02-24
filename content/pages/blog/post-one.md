@@ -8,10 +8,10 @@ excerpt: >-
   Some insight into who I am.
 featuredImage:
   type: ImageBlock
-  url: /images/abt2.jpg
+  url: /images/abt2.png
   altText: A photo of me at NYC.
 media:
-  url: /images/abt2.jpg
+  url: /images/abt2.png
   altText: A photo of me at NYC.
   caption: Me! Circa fall 2024, @ NYC.
   elementId: ''
