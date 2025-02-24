@@ -1,0 +1,10 @@
+{
+    "type": "Person",
+    "firstName": "Usha",
+    "lastName": "Sophea Janardhan",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/about2.jpg",
+        "altText": "Usha's photo (2)"
+    }
+}

@@ -1,19 +1,19 @@
 ---
 type: PostLayout
-title: How I started a startup 🚀
+title: hello world - a bit (more) about me
 colors: colors-a
 date: '2021-06-28'
-author: content/data/team/doris-soto.json
+author: content/data/team/ushasj.json
 excerpt: >-
-  More context that may or may not be helpful
+  Some insight into who I am.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image1.jpg
-  altText: Post thumbnail image
+  url: /images/abt2.jpg
+  altText: A photo of me at NYC.
 media:
-  url: /images/post-2.jpg
-  altText: altText of the image
-  caption: Caption of the image
+  url: /images/abt2.jpg
+  altText: A photo of me at NYC.
+  caption: Me! Circa fall 2024, @ NYC.
   elementId: ''
   type: ImageBlock
 bottomSections:
@@ -110,18 +110,18 @@ bottomSections:
         textAlign: left
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+i'm a cambodian-indian student, and i'm currently ~~going through it~~ in my third year at uoft, canada.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+fun fact: canada is the 6th country i have lived in!
 
-## About Coding
+i like toooo many things and i am indecisive, which make for an interesting combination. some of the main things i am passionate about are design and data!
 
-> “Coding is the language of the future, and every girl should learn it. As I've learned from watching girls grow and learn in our classrooms, coding is fun, collaborative and creative.”
+design-wise, i've always been in love with aesthetics and "making things pretty", as seen through my extensive experience as a pinterest board connoisseur (8+ years and counting!). this led me to begin playing around with website/app design from trying to edit the html/css of my tumblr blog in 7th grade, to being here on read.cv. it's been a journey!
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+and as for data, this is more of an accidental discovery: i took a first-year stats class (sta107) and ending up finding it quite interesting. coupled with some very interesting econ lectures and coffee chats with people in risk/audit analysis, i was inspired! my (emerging) passion for data is heavily intertwined with my curiousity of financial economics. i'll write more as i learn more! for now, i'm still expanding my horizons through more coffee chats, more google searches and professor office hours.
 
-## Productivity
+alright, enough about me. i hope this was an intro interesting enough for you to reach out!
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+signing off,
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+usha
