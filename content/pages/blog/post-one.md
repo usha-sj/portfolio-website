@@ -2,7 +2,7 @@
 type: PostLayout
 title: hello world - a bit (more) about me
 colors: colors-a
-date: '2021-06-28'
+date: '2024-12-01'
 author: content/data/team/ushasj.json
 excerpt: >-
   Some insight into who I am.
