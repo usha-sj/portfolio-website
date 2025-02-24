@@ -1,11 +1,11 @@
 {
-    "type": "Config",
+    "type": "Config", 
     "favicon": "/images/favicon.svg",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "Usha SJ",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -20,17 +20,17 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "Writing",
                 "url": "/blog"
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "altText": "LinkedIn",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/ushasj/",
+                "icon": "linkedin"
             },
             {
                 "type": "Social",
@@ -71,7 +71,7 @@
                 "type": "Link",
                 "label": "GitHub",
                 "url": "https://github.com/usha-sj",
-                "altText": "Netlify templates"
+                "altText": "GitHub"
             }
         ],
         "contacts": {
@@ -81,7 +81,7 @@
             "phoneAltText": "My phone number",
             "email": "ushashasj@gmail.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "Toronto, ON, Canada",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
