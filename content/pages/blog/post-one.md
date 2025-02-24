@@ -8,10 +8,10 @@ excerpt: >-
   Some insight into who I am.
 featuredImage:
   type: ImageBlock
-  url: /images/abt2.png
+  url: /images/about2.png
   altText: A photo of me at NYC.
 media:
-  url: /images/abt2.png
+  url: /images/about2.png
   altText: A photo of me at NYC.
   caption: Me! Circa fall 2024, @ NYC.
   elementId: ''
@@ -110,18 +110,18 @@ bottomSections:
         textAlign: left
 ---
 
-i'm a cambodian-indian student, and i'm currently ~~going through it~~ in my third year at uoft, canada.
+I'm a cambodian-indian student currently ~~going through it~~ in my third year at UofT.
 
-fun fact: canada is the 6th country i have lived in!
+Fun fact: Canada is the 6th country I have lived in!
 
-i like toooo many things and i am indecisive, which make for an interesting combination. some of the main things i am passionate about are design and data!
+I like toooo many things and I'm indecisive, which make for an interesting combination. Some of the main things I am passionate about are design and data!
 
-design-wise, i've always been in love with aesthetics and "making things pretty", as seen through my extensive experience as a pinterest board connoisseur (8+ years and counting!). this led me to begin playing around with website/app design from trying to edit the html/css of my tumblr blog in 7th grade, to being here on read.cv. it's been a journey!
+Design-wise, I've always been in love with aesthetics and "making things pretty", as seen through my extensive experience as a Pinterest board connoisseur (8+ years and counting!). This led me to begin playing around with website/app design from trying to edit the html/css of my tumblr blog in 6th grade, to being a SWE intern. It's been a journey!
 
-and as for data, this is more of an accidental discovery: i took a first-year stats class (sta107) and ending up finding it quite interesting. coupled with some very interesting econ lectures and coffee chats with people in risk/audit analysis, i was inspired! my (emerging) passion for data is heavily intertwined with my curiousity of financial economics. i'll write more as i learn more! for now, i'm still expanding my horizons through more coffee chats, more google searches and professor office hours.
+And as for data, this is more of an accidental discovery: I took a first-year stats class (STA107) and ending up finding it quite interesting. Coupled with some very interesting Economics lectures and coffee chats with people in risk/audit analysis, I was inspired! My (emerging) passion for data is heavily intertwined with my curiousity of financial economics. I'll write more as i learn more! for now, I'm still expanding my horizons through more coffee chats, more google searches and professor office hours.
 
-alright, enough about me. i hope this was an intro interesting enough for you to reach out!
+Alright, enough about me. I hope this was an intro interesting enough for you to reach out!
 
-signing off,
+Signing off,
 
-usha
+Usha
