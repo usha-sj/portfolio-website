@@ -94,27 +94,27 @@ bottomSections:
   #     styles:
   #       submitLabel:
   #         textAlign: center
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
+  #   styles:
+  #     self:
+  #       height: auto
+  #       width: wide
+  #       margin:
+  #         - mt-0
+  #         - mb-0
+  #         - ml-4
+  #         - mr-4
+  #       padding:
+  #         - pt-24
+  #         - pb-24
+  #         - pr-4
+  #         - pl-4
+  #       alignItems: center
+  #       justifyContent: center
+  #       flexDirection: row
+  #     title:
+  #       textAlign: left
+  #     text:
+  #       textAlign: left
 ---
 
 ### My Contribution
