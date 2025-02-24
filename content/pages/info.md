@@ -14,14 +14,15 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      ## Hello world! I'm Usha, an international student at the University of Toronto. I'm pursuing a double major in Computer Science and Economics, driven by a passion for blending data, design, AI, and finance to create intelligent solutions with beautiful interfaces. 
+      
+      Most of all, I love trying new things and continuously learning!
+
+      I’m eager to explore opportunities where I can apply my skills in data science, machine learning, UX/UI design, and finance to solve real-world problems. Let’s connect and create something impactful!
     media:
       type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+      url: /images/about.png
+      altText: A photo of me!
     styles:
       self:
         height: auto
