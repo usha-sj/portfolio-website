@@ -8,7 +8,7 @@ description: >-
   I collaborated with UTM Robotics executives to develop and optimize control algorithms for Kobuki robots using Raspberry Pis and socket-based communication, enhancing gameplay performance for 3v3 soccer matches.
 featuredImage:
   type: ImageBlock
-  url: /images/robotsoccer1.png
+  url: /images/robotsoccer.png
   altText: Robot soccer in action!
 media:
   type: ImageBlock

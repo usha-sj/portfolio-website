@@ -17,9 +17,10 @@ media:
 ---
 
 ### Project Overview
-Github: https://github.com/nitic04/PhishNet
-Devpost Link: https://devpost.com/software/phishnet-ejy6n3 
-Website: https://phishnet.co/
+[Github](https://github.com/nitic04/PhishNet) | [Devpost](https://devpost.com/software/phishnet-ejy6n3)
+
+Website: [phishnet.co](https://phishnet.co/)
+
 
 ### About
 PhishNet is a website that allows users to upload their exported emails onto the website, which will then scan the file information and give the user a rating or percentage of how trustworthy or legitimate the email senders are, how suspicious they or the links they send are, and as well as checking if any similar scam has been reported.

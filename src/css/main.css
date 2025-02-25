@@ -28,6 +28,16 @@
 }
 
 @layer components {
+    /* YouTube Video Embed Styles */
+    .video-container {
+        @apply relative overflow-hidden;
+        padding-bottom: 56.25%; /* 16:9 aspect ratio */
+        height: 0;
+    }
+
+    .video-container iframe {
+        @apply absolute top-0 left-0 w-full h-full;
+    }
     .sb-markdown {
         @apply text-lg leading-relaxed;
         a {
@@ -370,4 +380,5 @@
     .colors-f {
         @apply bg-transparent;
     }
+
 }
