@@ -1,53 +1,85 @@
-# Netlify Developer Portfolio Starter (auto-annotated)
+# Usha's Portfolio Website
 
-![Developer Portfolio](https://assets.stackbit.com/docs/personal-nextjs-starter-thumb.png)
+![Project Screenshot](images/projss.png)
 
-This is a full-fledged portfolio website built with Next.js, Tailwind CSS, [visual editor](https://docs.netlify.com/visual-editor/overview/) and the [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
+This is my personal portfolio website, built using Next.js, Tailwind CSS, and designed to showcase my projects, skills, and experiences.
 
-The codebase showcases **how to apply annotations at scale**, meaning: how to make much of your components [highlightable in the visual editor](https://docs.netlify.com/visual-editor/visual-editing/inline-editor/) through data attributes without manually adding code throughout the codebase.
+**About Me:**
 
-**This is achieved by:**
+I'm Usha, an international student at the University of Toronto, double majoring in Computer Science and Economics. I'm passionate about blending data, design, AI, and finance to create intelligent solutions with beautiful interfaces. This website is a reflection of my journey and the projects I've worked on.
 
-1. Adding an annotation property to the content objects at they're loaded (see `src/utils/content.ts`)
-1. When rendering the page, each content sub-object is dynamically matched to the appropriate component. At this point, wrap each component with an annotation, based on the abovementioned content property. See `src/components/components-registry.tsx`.
+**Original Template Credit:**
 
-**⚡ Demo:** [auto-annotated-portfolio.netlify.app](https://auto-annotated-portfolio.netlify.app)
+This website is based on the **Netlify Developer Portfolio Starter (auto-annotated)** template, originally created by Netlify. I've customized and enhanced the template to fit my personal portfolio needs.
 
-## Deploying to Netlify
+**Key Features:**
 
-If you click "Deploy to Netlify" button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
+* **Next.js:** Built with the powerful React framework for fast and efficient rendering.
+* **Tailwind CSS:** Utilizes a utility-first CSS framework for rapid UI development.
+* **Responsive Design:** Ensures the website looks great on all devices.
+* **Project Showcase:** Highlights my projects with detailed descriptions, images, and videos.
+* **Blog Section:** Features my latest blog posts and insights.
+* **Contact Information:** Provides easy ways to connect with me.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/auto-annotated-portfolio)
+**Getting Started:**
 
-## Getting Started
+1.  **Clone the Repository:**
+    ```bash
+    git clone [Your Repository URL]
+    cd [Your Project Directory]
+    ```
+2.  **Install Dependencies:**
+    ```bash
+    npm install
+    ```
+3.  **Run the Development Server:**
+    ```bash
+    npm run dev
+    ```
+4.  **Open in Browser:**
+    * Visit `http://localhost:3000` in your web browser.
 
-The typical development process is to begin by working locally. Clone this repository, then run `npm install` in its root directory.
+**Project Structure:**
 
-Run the Next.js development server:
+* `pages/`: Contains the Next.js pages for your website.
+* `components/`: Holds reusable React components.
+* `public/`: Stores static assets like images and videos.
+* `styles/`: Includes your Tailwind CSS configuration and custom styles.
+* `content/`: Stores markdown files for your projects and blog posts.
 
-```txt
-cd auto-annotated-portfolio
-npm run dev
-```
+**Customization:**
 
-Install the [Netlify visual editor CLI](https://www.npmjs.com/package/@stackbit/cli). Then open a new terminal window in the same project directory and run the Netlify visual editor dev server:
+* **Content:**
+    * Edit the Markdown files in the `content/` directory to update project and blog post content.
+    * Add or replace images in the `public/images/` directory.
+    * Add or replace videos in the `public/videos/` directory.
+* **Styling:**
+    * Modify the Tailwind CSS configuration in `tailwind.config.js` to customize the website's appearance.
+    * Add custom CSS styles in `styles/globals.css`.
+* **Components:**
+    * Create or modify React components in the `components/` directory to add new features or customize existing ones.
+* **Configuration:**
+    * Modify the `config.json` or `config.yaml` to change site wide settings.
 
-```txt
-npm install -g @stackbit/cli
-stackbit dev
-```
+**Deployment:**
 
-This outputs your own Netlify visual editor URL. Open this, register or sign in, and you will be directed to Netlify's visual editor for your new project.
+* **Netlify:**
+    * Push your code to a Git repository (e.g., GitHub, GitLab).
+    * Connect your repository to Netlify for automatic deployments.
+* **Vercel:**
+    * Push your code to a Git repository.
+    * Connect your repository to Vercel for automatic deployments.
+* **Other Platforms:**
+    * Follow the deployment instructions for your chosen hosting platform.
 
-![Next.js Dev + Netlify visual editor dev](https://assets.stackbit.com/docs/next-dev-stackbit-dev.png)
+**Contributing:**
 
-## Next Steps
+If you'd like to contribute to this project, please feel free to submit a pull request.
 
-Here are a few suggestions on what to do next if you're new to Netlify Visual Editor:
+**Support:**
 
-- Learn [how Netlify Visual Editor works](https://docs.netlify.com/visual-editor/overview/)
-- Check [Netlify visual editor reference documentation](https://visual-editor-reference.netlify.com/)
+If you have any questions or issues, please feel free to reach out to me.
 
-## Support
+**License:**
 
-If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/).
+NA
