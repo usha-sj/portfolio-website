@@ -1,6 +1,6 @@
 # Usha's Portfolio Website
 
-![Project Screenshot](images/projss.png)
+![Project Screenshot](public/images/projss.png)
 
 This is my personal portfolio website, built using Next.js, Tailwind CSS, and designed to showcase my projects, skills, and experiences.
 
@@ -23,10 +23,10 @@ This website is based on the **Netlify Developer Portfolio Starter (auto-annotat
 
 **Getting Started:**
 
-1.  **Clone the Repository:**
+**Clone the Repository:**
     ```bash
-    git clone [Your Repository URL]
-    cd [Your Project Directory]
+    git clone [https://github.com/usha-sj/portfolio-website](https://github.com/usha-sj/portfolio-website)
+    cd portfolio-website
     ```
 2.  **Install Dependencies:**
     ```bash
