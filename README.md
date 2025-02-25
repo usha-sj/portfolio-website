@@ -25,7 +25,7 @@ This website is based on the **Netlify Developer Portfolio Starter (auto-annotat
 
 **Clone the Repository:**
     ```bash
-    git clone [https://github.com/usha-sj/portfolio-website](https://github.com/usha-sj/portfolio-website)
+    git clone https://github.com/usha-sj/portfolio-website
     cd portfolio-website
     ```
 2.  **Install Dependencies:**
