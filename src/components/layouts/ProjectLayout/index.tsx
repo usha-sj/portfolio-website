@@ -72,7 +72,21 @@ const Component: React.FC<ComponentProps> = (props) => {
 export default Component;
 
 function ProjectMedia({ media }) {
-    return <DynamicComponent {...media} className={classNames({ 'w-full': media.type === 'ImageBlock' })} />;
+    if (Array.isArray(media)) {
+        return (
+            <div>
+                {media.map((item, index) => (
+                    <DynamicComponent
+                        key={index}
+                        {...item}
+                        className={classNames({ 'w-full': item.type === 'ImageBlock' })}
+                    />
+                ))}
+            </div>
+        );
+    } else {
+        return <DynamicComponent {...media} className={classNames({ 'w-full': media.type === 'ImageBlock' })} />;
+    }
 }
 
 function ProjectNavItem({ project, label }) {
